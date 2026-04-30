@@ -23,3 +23,6 @@
 В конце каждого ноутбука есть упражнения для (само)контроля. Астрономический контекст не обязателен для intro и advanced, но крайне желателен для astropy.
 
 Использованы ресурсы BRICS Astronomy Data Analysis Course <https://github.com/Danselem/brics_astro/tree/main> а также Яндекс.Учебника "Основы Python" <https://education.yandex.ru/handbook/python>.
+
+За нахождение опечаток и замечаний по формулировкам большое спасибо моим студентам:
+*Даше Богун* и *Даниилу Потёмину*.
