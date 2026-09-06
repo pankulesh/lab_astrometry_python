@@ -1,0 +1,34 @@
+[
+  {
+    "system_type": "Equ",
+    "latitude_deg": 56.8389,
+    "longitude_deg": 60.6057,
+    "ERA_deg": 120.456,
+    "coord_1_deg": 279.23475,
+    "coord_2_deg": 38.78369
+  },
+  {
+    "system_type": "AltAz",
+    "latitude_deg": 56.8389,
+    "longitude_deg": 60.6057,
+    "ERA_deg": 45.0,
+    "coord_1_deg": 180.0,
+    "coord_2_deg": 45.0
+  },
+  {
+    "system_type": "Ecl",
+    "latitude_deg": 56.8389,
+    "longitude_deg": 60.6057,
+    "ERA_deg": 0.0,
+    "coord_1_deg": 120.0,
+    "coord_2_deg": 15.0
+  },
+  {
+    "system_type": "Gal",
+    "latitude_deg": 56.8389,
+    "longitude_deg": 60.6057,
+    "ERA_deg": 0.0,
+    "coord_1_deg": 0.0,
+    "coord_2_deg": 0.0
+  }
+]

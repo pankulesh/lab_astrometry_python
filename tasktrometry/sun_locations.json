@@ -1,0 +1,37 @@
+[
+  {
+    "description": "Екатеринбург летом",
+    "latitude_deg": 56.8389,
+    "longitude_deg": 60.6057,
+    "timezone_hours": 5.0,
+    "date_iso": "2026-06-22"
+  },
+  {
+    "description": "Екатеринбург зимой",
+    "latitude_deg": 56.8389,
+    "longitude_deg": 60.6057,
+    "timezone_hours": 5.0,
+    "date_iso": "2026-12-31"
+  },
+  {
+    "description": "Кито, Анды весной",
+    "latitude_deg": -0.1807,
+    "longitude_deg": -78.4678,
+    "timezone_hours": -5.0,
+    "date_iso": "2026-03-20"
+  },
+  {
+    "description": "Кито, Анды зимой",
+    "latitude_deg": -0.1807,
+    "longitude_deg": -78.4678,
+    "timezone_hours": -5.0,
+    "date_iso": "2026-01-10"
+  },
+  {
+    "description": "Петербург в равноденствие",
+    "latitude_deg": 59.9343,
+    "longitude_deg": 30.3351,
+    "timezone_hours": 3.0,
+    "date_iso": "2026-03-20"
+  }
+]
